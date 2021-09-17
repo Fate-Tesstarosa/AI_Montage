@@ -24,7 +24,7 @@ See video demo at https://www.youtube.com/watch?v=eZiSFO_i9UM&ab_channel=techie_
 
 
 
-Frok by Github：https://github.com/techie-ray/automatic-video-montage-editor
+Fork by Github：https://github.com/techie-ray/automatic-video-montage-editor
 
 加入了视频剪辑、合并功能
 
